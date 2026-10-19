@@ -24,7 +24,7 @@ export default function Home() {
             <Ionicons name="person" size={28} color={cores.laranja} />
           </View>
           <View>
-            <Text style={styles.ola}>Olá, Enriko</Text>
+            <Text style={styles.ola}>Olá, Nishiyama</Text>
             <Text style={styles.conta}>
               {escondida ? 'agência ••• conta •••••' : 'agência ••63 conta •••13-'}
             </Text>

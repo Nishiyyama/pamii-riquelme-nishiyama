@@ -65,11 +65,11 @@ export default function Extrato() {
           <HStack className="items-center justify-between">
             <HStack className="items-center gap-3">
               <Avatar className="bg-white">
-                <AvatarFallbackText className="text-base font-bold text-[#FF6600]">Enriko Silva</AvatarFallbackText>
+                <AvatarFallbackText className="text-base font-bold text-[#FF6600]">Riquelme Nishiyama</AvatarFallbackText>
                 <AvatarBadge />
               </Avatar>
               <VStack>
-                <Heading size="lg" className="text-white">Olá, Enriko</Heading>
+                <Heading size="lg" className="text-white">Olá, Nishiyama</Heading>
                 <Text className="text-sm text-white/80">ag 0063 · cc 12345-6</Text>
               </VStack>
             </HStack>
